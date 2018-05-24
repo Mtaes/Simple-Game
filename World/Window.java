@@ -66,7 +66,7 @@ class Board extends JPanel implements MouseListener {
                             break;
                         case "Sow thistle": g.setColor(Color.YELLOW);
                             break;
-                        case "Turtle": g.setColor(Color.YELLOW);
+                        case "Turtle": g.setColor(Color.RED);
                             break;
                         case "Wolf": g.setColor(Color.GRAY);
                             break;
